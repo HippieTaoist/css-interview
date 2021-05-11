@@ -3,6 +3,8 @@ body{
 }
     
 div{
+    width: auto;
+    position:center;
     border: blue;
     padding: 25px;
     margin: 10px;
