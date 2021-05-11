@@ -1,0 +1,39 @@
+div{
+    border: blue;
+    padding: 25px;
+    margin: 10px;
+    box-shadow: inset;
+    background-color: 00ffaa;
+    background-image: -moz-repeating-radial-gradient(blue);
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+H4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h6{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    border-radius: 50px;
+}
+
+li {
+    font-style: italic;
+}
